@@ -1,3 +1,7 @@
+# Forked From [faith/color](https://github.com/fatih/color)
+
+---
+
 # Archived project. No maintenance. 
 
 This project is not maintained anymore and is archived. Feel free to fork and
